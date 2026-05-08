@@ -20,7 +20,7 @@ Currently pivoting into AI Engineering — building intelligent tools with Pytho
     
 ## Tech Stack
 
-Python | Claude API | macOS | JAMF Pro | Google Workspace | Git
+Python | Claude API | OpenAI API | Google Workspace | OAuth 2.0 | Okta | JAMF Pro | Git
 
 ## Get in touch
 
