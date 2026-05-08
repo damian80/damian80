@@ -2,7 +2,7 @@
 
 IT Professional based in London with 10+ years of experience in IT support and infrastructure.
 
-Currently pivoting into AI Engineering — building intelligent tools with Python and Claude API.
+Currently pivoting into AI Engineering — building intelligent tools with Python, OpenAI and Claude APIs.
 
 ## What I'm working on
 
