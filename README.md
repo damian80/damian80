@@ -7,7 +7,7 @@ Currently pivoting into AI Engineering — building intelligent tools with Pytho
 ## What I'm working on
 
 - 🤖 Building AI-powered tools for IT automation
-- 🐍 Python + Anthropic Claude API
+- 🐍 Python + OpenAI / Anthropic Claude APIs
 - 🏫 Solving real IT problems in education
 
 ## Projects
@@ -20,7 +20,7 @@ Currently pivoting into AI Engineering — building intelligent tools with Pytho
     
 ## Tech Stack
 
-Python | Claude API | OpenAI API | Google Workspace | OAuth 2.0 | Okta | JAMF Pro | Git
+Python | OpenAI API | Claude API | macOS | JAMF Pro | Google Workspace | Git
 
 ## Get in touch
 
