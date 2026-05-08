@@ -11,12 +11,12 @@ Currently pivoting into AI Engineering — building intelligent tools with Pytho
 - 🏫 Solving real IT problems in education
 
 ## Projects
-
+- [IT Support RAG](https://github.com/damian80/it-support-rag) — Streamlit web app for IT troubleshooting ([Live Demo](https://it-support-rag-4qzbhregshcakrhvnagqnk.streamlit.app/))
 - [AI IT Support Assistant](https://github.com/damian80/ai-it-support-assistant) — AI chatbot for school IT support, built with Python and Claude API
 - [AI Document Analyzer](https://github.com/damian80/ai-document-analyzer) — Analyse documents and ask questions using Python and Claude API
 - [AI Onboarding Automator](https://github.com/damian80/ai-onboarding-automator) — Generate personalised onboarding checklists with Python and Claude API
 - [Gmail Automation](https://github.com/damian80/gmail-automation) — Read and process Gmail via OAuth 2.0 and Google API with Python
-- IT Support RAG — Streamlit web app for IT troubleshooting ([Live Demo](https://it-support-rag-4qzbhregshcakrhvnagqnk.streamlit.app/))
+
     
 ## Tech Stack
 
