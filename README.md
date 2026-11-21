@@ -10,7 +10,9 @@ Currently pivoting into AI Engineering — building intelligent tools with Pytho
 - 🐍 Python + OpenAI / Anthropic Claude APIs
 - 🏫 Solving real IT problems in education
 
+
 ## Projects
+- [Okta User Management API Demo](https://github.com/damian80/okta-api-demo) — Automate Okta user lifecycle via REST API: list, create, deactivate and delete users programmatically with SSWS token auth
 - [IT Support RAG](https://github.com/damian80/it-support-rag) — Streamlit web app for IT troubleshooting ([Live Demo](https://it-support-rag-4qzbhregshcakrhvnagqnk.streamlit.app))
 - [AI IT Helpdesk Triage](https://github.com/damian80/it-helpdesk-triage) — Classify tickets, generate AI responses and send via Gmail API with human approval
 - [AI IT Support Assistant](https://github.com/damian80/ai-it-support-assistant) — AI chatbot for school IT support, built with Python and Claude API
